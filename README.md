@@ -85,6 +85,11 @@ WantedBy=multi-user.target
 
 Сохраняем и выходим комбинациями клавиш “ctrl+s” и “ctrl+x”
 
+Открываем следующий файл:
+
+
+``` nano $HOME/.stride/config/config.toml ```
+
 Ищем строчки: 
 
 ```
