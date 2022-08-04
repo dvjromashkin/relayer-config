@@ -184,7 +184,7 @@ laddr = "tcp://127.0.0.1:26657"
 
 ```
 rly chains add --file=/root/stride.json stride
-rly chains add --file=/root/gaya.json gaia
+rly chains add --file=/root/gaia.json gaia
 ```
 Затем добавляем ключи восстановления, сначала в одной сети, потом в другой:
 
