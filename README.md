@@ -192,8 +192,8 @@ rly chains add --file=/root/gaia.json gaia
 Then we add recovery keys, first on one network, then on another:
 
 ```
-rly keys restore stride <your wallet moniker> "ваша мнемоника"
-rly keys restore gaia <your wallet moniker> "ваша мнемоника"
+rly keys restore stride <your wallet moniker> "your mnemonic phrase"
+rly keys restore gaia <your wallet moniker> "your mnemonic phrase"
 ```
 
 Next, we check the performance of our setting by checking the balance:
