@@ -226,7 +226,7 @@ paths:
             rule: allowlist
             channel-list:
                 - channel-0
-                - channel-12
+                - channel-694
                 - channel-2
                 - channel-3
                 - channel-4
